@@ -1,6 +1,6 @@
 # Operation First Pipeline
 
-[![CI/CD Pipeline](https://github.com/SimonKodarNu/OPERATION-FIRST-PIPELINE/actions/workflows/pipeline.yml/badge.svg?event=status)](https://github.com/SimonKodarNu/OPERATION-FIRST-PIPELINE/actions/workflows/pipeline.yml)
+[![CI/CD Pipeline](https://github.com/SimonKodarNu/OPERATION-FIRST-PIPELINE/actions/workflows/pipeline.yml/badge.svg)](https://github.com/SimonKodarNu/OPERATION-FIRST-PIPELINE/actions/workflows/pipeline.yml)
 
 **Live Deployment:** [](https://operation-first-pipeline.onrender.com/)
 
