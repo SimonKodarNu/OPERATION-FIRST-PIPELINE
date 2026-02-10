@@ -10,7 +10,7 @@ app.get('/status', (req, res) => {
 });
 
 app.get('/', (req, res) => {
-  res.send('First Pipeline Challenge - Week 4');
+  res.send('First Pipeline Challenge - Week 4!');
 });
 
 // Only start the server if this file is run directly
