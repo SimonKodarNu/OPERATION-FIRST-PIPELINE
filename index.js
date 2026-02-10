@@ -85,7 +85,7 @@ app.get('/status', (req, res) => {
 });
 
 app.get('/', (req, res) => {
-  res.send('Pipeline Challenge);
+  res.send('Pipeline Challenge');
 });
 
 // Starta servern
