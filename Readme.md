@@ -2,7 +2,7 @@
 
 [![CI/CD Pipeline](https://github.com/SimonKodarNu/OPERATION-FIRST-PIPELINE/actions/workflows/pipeline.yml/badge.svg)](https://github.com/SimonKodarNu/OPERATION-FIRST-PIPELINE/actions/workflows/pipeline.yml)
 
-**Live Deployment:** [](https://operation-first-pipeline.onrender.com/)
+**Live Deployment:** https://operation-first-pipeline.onrender.com/
 
 ## About
 Week 4 Boiler Room Hackathon - Building a complete CI/CD pipeline. This project demonstrates an automated DevOps workflow using GitHub Actions, Docker, and Trivy security scanning.
